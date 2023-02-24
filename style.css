@@ -58,6 +58,7 @@ p:last-child {
 .max-width-wrapper {
   width: 800px;
   margin: 0 auto;
+  padding: 1rem;
 }
 
 .intro-chunk {
@@ -69,6 +70,7 @@ p:last-child {
 main {
   background-color: var(--gray-dark);
   padding: 64px 0;
+  width: 100%;
 }
 
 strong {
